@@ -1,0 +1,12 @@
+Types of Binary Tree
+
+1.Full/StrictBinary Tree:A tree in which all nodes have either 0 or 2 children
+
+2.Perfect Binary Tree:A tree in which all internal nodes have 2 children + all leaf nodes are at the same level
+
+3.Complete Binary Tree:A Binary Tree in which all levels are completely filled except possibly the last level + if
+				last level is incomplete all the keys or leaf nodes are alligned to the left
+
+4.Degenerate Binary Tree: Every parent tree has exactly one child
+	4.1. Left Skewed Degenerate BT
+	4.2. Right Skewed Degenerate BT 
